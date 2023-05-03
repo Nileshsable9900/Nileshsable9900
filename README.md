@@ -1,4 +1,4 @@
-![logo](https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg)
+![logo](https://www.niit.com/india/sites/default/files/2021-05/Foundation-in-Java-02.jpg)
 <h1 align="center">Hi 👋, I'm Nilesh Sable</h1>
 <h3 align="center">A passionate mern-stack developer from India</h3>
 
