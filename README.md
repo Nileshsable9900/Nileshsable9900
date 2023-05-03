@@ -1,4 +1,4 @@
-![logo](https://res.cloudinary.com/practicaldev/image/fetch/s--apOSdFFu--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lctqqh3t7kfnwpxljhl7.jpg)
+![logo](https://www.shutterstock.com/image-photo/web-development-concept-person-using-260nw-1890313726.jpg)
 <h1 align="center">Hi 👋, I'm Nilesh Sable</h1>
 <h3 align="center">A passionate mern-stack developer from India</h3>
 
