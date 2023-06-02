@@ -1,5 +1,34 @@
 ![logo](https://www.niit.com/india/sites/default/files/2021-05/Foundation-in-Java-02.jpg)
-<h1 align="center">Hi 👋, I'm Nilesh Sable</h1>
+<h2>नमस्ते (Namaste)🙏🏻,  I'm Nilesh Sable !
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Full Stack Web Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+<!-- [![Gmail Badge](https://img.shields.io/badge/-nileshsable9900@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nileshsable9900@gmail.com)](mailto:nileshsable9900@gmail.com) -->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+<h3>javascript
+const ridsuteri = {
+    pronouns: "He" | "Him",
+    code: [Javascript, Java, Dart, Typescript],
+    askMeAbout: ["Web Developemnt", "Technical Writing"],
+    technologies:{
+       frontEnd: {
+            js: ["React"],
+            css: ["materialize", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+        },
+        devOps: ["AWS", "Google Cloud"],
+        databases: ["mongo","sql"],
+        misc: ["Firebase", "socket.io"]
+    },
+    challenge: "I am trying to do more open source contributions",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};</h3>
+<!-- <h1 align="center">Hi 👋, I'm Nilesh Sable</h1> -->
 <h3 align="center">A passionate mern-stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
