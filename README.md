@@ -9,25 +9,25 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <h3>javascript
-const ridsuteri = {
-    pronouns: "He" | "Him",
-    code: [Javascript, Java, Dart, Typescript],
-    askMeAbout: ["Web Developemnt", "Technical Writing"],
-    technologies:{
-       frontEnd: {
-            js: ["React"],
-            css: ["materialize", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "express"],
-        },
-        devOps: ["AWS", "Google Cloud"],
-        databases: ["mongo","sql"],
-        misc: ["Firebase", "socket.io"]
-    },
-    challenge: "I am trying to do more open source contributions",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};</h3>
+const ridsuteri = {<br>
+    pronouns: "He" | "Him",<br>
+    code: [Javascript, Java, Dart, Typescript],<br>
+    askMeAbout: ["Web Developemnt", "Technical Writing"],<br>
+    technologies:{<br>
+       frontEnd: {<br>
+            js: ["React"],<br>
+            css: ["materialize", "bootstrap"]<br>
+        },<br>
+        backEnd: {<br>
+            js: ["node", "express"],<br>
+        },<br>
+        devOps: ["AWS", "Google Cloud"],<br>
+        databases: ["mongo","sql"],<br>
+        misc: ["Firebase", "socket.io"]<br>
+    },<br>
+    challenge: "I am trying to do more open source contributions",<br>
+    funFact: "There are two ways to write error-free programs; only the third one works"<br>
+};</h3><br>
 <!-- <h1 align="center">Hi 👋, I'm Nilesh Sable</h1> -->
 <h3 align="center">A passionate mern-stack developer from India</h3>
 
