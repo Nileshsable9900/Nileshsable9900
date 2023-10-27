@@ -43,7 +43,7 @@ const ridsuteri = {<br>
 <p align="left">
 <a href="https://fb.com/nileshsable" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nileshsable" height="30" width="40" /></a>
 <a href="https://instagram.com/nileshsable75" target="_main"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nileshsable75" height="30" width="40" /></a>
-<a href="https://nileshsable9900.github.io/MyPortfolio.github.io/" target="_main"><img align="center" src="https://cdn-icons-png.flaticon.com/256/7648/7648266.png" alt="Website" height="50" width="50" /></a>
+<a href="https://nileshportfolio9900.netlify.app/" target="_main"><img align="center" src="https://cdn-icons-png.flaticon.com/256/7648/7648266.png" alt="Website" height="50" width="50" /></a>
 
 </p>
 
