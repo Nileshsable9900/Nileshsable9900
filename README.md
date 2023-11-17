@@ -11,8 +11,8 @@
 <h3>javascript
 const ridsuteri = {<br>
     pronouns: "He" | "Him",<br>
-    code: [Javascript, Java, Dart, Typescript],<br>
-    askMeAbout: ["Web Developemnt", "Technical Writing"],<br>
+    code: [Javascript, Java, Next.js, Typescript,DSA],<br>
+    askMeAbout: ["Web Developemnt", "System Design"],<br>
     technologies:{<br>
        frontEnd: {<br>
             js: ["React"],<br>
@@ -37,7 +37,7 @@ const ridsuteri = {<br>
 
 - 🌱 I’m currently learning **REACT & Nodejs**
 
-- 📫 How to reach me **nileshsable9900@gmail.com**
+- 📫 How to reach me **https://portfolio-nileshsable.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
